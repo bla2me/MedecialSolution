@@ -1,2 +1,2 @@
 # MedecialSolution
-服务外包小赛项目
+服务外包大赛项目
